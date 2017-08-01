@@ -1,0 +1,29 @@
+{
+  "name": "krancode",
+  "version": "1.0.0",
+  "description": "The KranCode programming language",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krancorp/krancode.git"
+  },
+  "author": "watzkuh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krancorp/krancode/issues"
+  },
+  "homepage": "https://github.com/krancorp/krancode#readme"
+}
